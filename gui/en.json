@@ -11,7 +11,7 @@
   "inGame": {
     "multiPlayer": {
       "largeImageText": {
-        "unknown": "Multiplayer",
+        "unknown": "Unknown Server",
         "ip": "IP: %s"
       },
       "state": "Playing with Friends \u003c3",
