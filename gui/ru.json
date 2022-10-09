@@ -1,0 +1,26 @@
+{
+  "mainMenu": {
+    "state": "В главном меню",
+    "largeImageText": "Главное меню"
+  },
+  "loadingGame": {
+    "state": "Загрузка игры..",
+    "largeImageText": "Solar Eclipse: Remastered",
+    "details": "С %d модов"
+  },
+  "inGame": {
+    "multiPlayer": {
+      "largeImageText": {
+        "unknown": "Неизвестный сервер",
+        "ip": "IP: %s"
+      },
+      "state": "Играет на сервере",
+      "details": "Ник: %s"
+    },
+    "singlePlayer": {
+      "state": "Одиночная игра",
+      "largeImageText": "Мир: %s",
+      "details": "Ник: %s"
+    }
+  }
+}
