@@ -1,26 +1,26 @@
 {
   "mainMenu": {
-    "state": "In the Main Menu",
+    "state": "Main Menu",
     "largeImageText": "Main Menu"
   },
   "loadingGame": {
-    "state": "Loading the Game..",
+    "state": "Loading Client..",
     "largeImageText": "Solar Eclipse: Remastered",
-    "details": "With %d mods"
+    "details": "Mods: %d"
   },
   "inGame": {
     "multiPlayer": {
       "largeImageText": {
-        "unknown": "Unknown Server",
+        "unknown": "Multiplayer",
         "ip": "IP: %s"
       },
-      "state": "Playing with friends \u003c3",
-      "details": "Nickname: %s"
+      "state": "Playing with Friends \u003c3",
+      "details": "Nick: %s"
     },
     "singlePlayer": {
-      "state": "Singleplayer",
-      "largeImageText": "World: %s",
-      "details": "Nickname: %s"
+      "state": "Single World",
+      "largeImageText": "Dimension: %s",
+      "details": "Nick: %s"
     }
   }
 }
