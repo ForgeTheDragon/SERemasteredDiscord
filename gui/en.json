@@ -5,7 +5,7 @@
   },
   "loadingGame": {
     "state": "Loading Client",
-    "largeImageText": "Solar Eclipse: Remastered",
+    "largeImageText": "Loading Client",
     "details": "Mods: %d"
   },
   "inGame": {
