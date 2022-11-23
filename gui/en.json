@@ -1,7 +1,7 @@
 {
   "mainMenu": {
     "state": "Main Menu",
-    "largeImageText": "Main Menu",
+    "largeImageText": "Main Menu"
   },
   "loadingGame": {
     "state": "Client Loading",
