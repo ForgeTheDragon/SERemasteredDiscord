@@ -4,20 +4,20 @@
     "largeImageText": "Main Menu",
 	"details": "Main Menu"
   },
-  
   "loadingGame": {
     "state": "Mods: %d",
-    "largeImageText": "Loading Client",
-    "details": "Client Loading.."
+    "largeImageText": "Client Loading",
+    "details": "Client Loading"
   },
-  
   "inGame": {
     "multiPlayer": {
-	  "state": "Mods: %d",
-      "largeImageText": "Multiplayer",
+      "largeImageText": {
+        "unknown": "Multiplayer",
+        "ip": ""
+      },
+      "state": "Mods: %d",
       "details": "Multiplayer"
     },
-	
     "singlePlayer": {
       "state": "Mods: %d",
       "largeImageText": "World: %s",
