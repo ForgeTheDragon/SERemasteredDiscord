@@ -1,26 +1,27 @@
 {
   "mainMenu": {
-    "state": "Main Menu",
-    "largeImageText": "Main Menu"
+    "state": "Mods: %d",
+    "largeImageText": "Main Menu",
+	"details": "Main Menu"
   },
+  
   "loadingGame": {
-    "state": "Loading Client",
+    "state": "Mods: %d",
     "largeImageText": "Loading Client",
-    "details": "Mods: %d"
+    "details": "Client Loading.."
   },
+  
   "inGame": {
     "multiPlayer": {
-      "largeImageText": {
-        "unknown": "Unknown Server",
-        "ip": "IP: %s"
-      },
-      "state": "Playing with Friends \u003c3",
-      "details": "Nickname: %s"
+	  "state": "Mods: %d"
+      "largeImageText":
+      "details": "Multiplayer"
     },
+	
     "singlePlayer": {
-      "state": "Singleplayer",
+      "state": "Mods: %d",
       "largeImageText": "World: %s",
-      "details": "Nickname: %s"
+      "details": "Singleplayer"
     }
   }
 }
