@@ -13,8 +13,8 @@
   
   "inGame": {
     "multiPlayer": {
-	  "state": "Mods: %d"
-      "largeImageText":
+	  "state": "Mods: %d",
+      "largeImageText": "Multiplayer",
       "details": "Multiplayer"
     },
 	
