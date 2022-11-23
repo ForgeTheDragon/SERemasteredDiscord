@@ -1,13 +1,12 @@
 {
   "mainMenu": {
-    "state": "Mods: %d",
+    "state": "Main Menu",
     "largeImageText": "Main Menu",
-	"details": "Main Menu"
   },
   "loadingGame": {
-    "state": "Mods: %d",
+    "state": "Client Loading",
     "largeImageText": "Client Loading",
-    "details": "Client Loading"
+    "details": ""
   },
   "inGame": {
     "multiPlayer": {
@@ -15,13 +14,13 @@
         "unknown": "Multiplayer",
         "ip": ""
       },
-      "state": "Mods: %d",
-      "details": "Multiplayer"
+      "state": "Multiplayer",
+      "details": ""
     },
     "singlePlayer": {
-      "state": "Mods: %d",
+      "state": "Singleplayer",
       "largeImageText": "World: %s",
-      "details": "Singleplayer"
+      "details": ""
     }
   }
 }
